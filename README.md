@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Online Shopp</strong></h1>
+<h1 align="center"><strong>Entity Framework Core Relationship</strong></h1>
 
 <hr/>
 
